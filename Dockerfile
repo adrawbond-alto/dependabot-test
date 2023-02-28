@@ -1,0 +1,1 @@
+FROM elixir:1.14.1-alpine@sha256:33609ce3dc813f463aaced8b72828025e7afbb384f3da7627a850778d4d7cddd
